@@ -1,3 +1,3 @@
-# Links úteis
-Algumas dicas de ferramentas úteis para desenvolvimento front-end.
+# Exercício da cadeira de Desenvolvimento Web Mobile, SENAC RS
+Exercício de utilização de flexbox 
 
